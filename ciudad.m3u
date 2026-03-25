@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4GMPHhntBiXRCI1vTVbDvJwN3hH.jpg",01
+https://github.com/tokio14-dot/ciudad-dios2/releases/download/A.1.0.0/A.1.0.1.3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4GMPHhntBiXRCI1vTVbDvJwN3hH.jpg",02
+https://github.com/tokio14-dot/ciudad-dios2/releases/download/A.1.0.0/A.1.0.1.2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4GMPHhntBiXRCI1vTVbDvJwN3hH.jpg",03
+https://github.com/tokio14-dot/ciudad-dios2/releases/download/A.1.0.0/A.1.0.1.3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4GMPHhntBiXRCI1vTVbDvJwN3hH.jpg",04
+https://github.com/tokio14-dot/ciudad-dios2/releases/download/A.1.0.0/A.1.0.1.4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4GMPHhntBiXRCI1vTVbDvJwN3hH.jpg",05
+https://github.com/tokio14-dot/ciudad-dios2/releases/download/A.1.0.0/A.1.0.1.5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4GMPHhntBiXRCI1vTVbDvJwN3hH.jpg",06
+https://github.com/tokio14-dot/ciudad-dios2/releases/download/A.1.0.0/A.1.0.1.6.mp4

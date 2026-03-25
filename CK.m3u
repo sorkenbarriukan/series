@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,TEMPORADA 1
+http://archive.org/download/ck-2_20210106/CK1.m3u
+#EXTINF:-1,TEMPORADA 2
+http://archive.org/download/ck-2_20210106/CK2.m3u
+#EXTINF:-1,TEMPORADA 3
+http://archive.org/download/ck-2_20210106/CK3.m3u
+#EXTINF:-1,TEMPORADA 4
+https://archive.org/download/si2_20220111/CK4.m3u
+
+
